@@ -1,0 +1,13 @@
+*{
+margin: 0%;
+padding: 0%;
+}
+.container{
+display: flex;
+background-color: white;
+}
+.login{
+width: 30%;
+height: 30%;
+background-color: tomato;
+}
