@@ -3,16 +3,12 @@ margin: 0%;
 padding: 0%;
 }
 .container{
-display: flex;
 width: 100%;
 height: 100vh;
-background-color: violet;
-display: flex;
-justify-content: center;
-align-items: center;
+background-image:https://i.pinimg.com/736x/1f/67/39/1f6739596327dd1b9736589e9fe34802.jpg ;
 }
 .login{
-width: 30%;
+width: 35%;
 height: 40%;
-background-color: tomato;
+background-image: ;
 }
